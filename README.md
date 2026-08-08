@@ -188,7 +188,7 @@ The demo shows the application working with multiple maze configurations and vis
 ### Graphical Interface
 
 <p align="center">
-  <img src="images/interface.png" width="750">
+  <img src="image/interface.png" width="350">
 </p>
 
 The application provides an interactive graphical representation of the maze and allows the user to select the start and exit positions.
@@ -198,7 +198,7 @@ The project includes multiple maze configurations with different layouts and pat
 ### Solving Process & Backtracking
 
 <p align="center">
-  <img src="images/solving_process.png" width="750">
+  <img src="image/solving_process.png" width="350">
 </p>
 
 The agent explores the maze while the interface displays the current state of the search.
